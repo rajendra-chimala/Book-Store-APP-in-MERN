@@ -1,0 +1,116 @@
+[
+    {
+      "name": "Palpasa Café",
+      "price": 450,
+      "category": "Fiction",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1537611048i/23618412.jpg",
+      "title": "A Novel by Narayan Wagle"
+    },
+    {
+      "name": "Seto Dharti",
+      "price": 550,
+      "category": "Historical Fiction",
+      "image": "https://washburnreview.org/wp-content/uploads/2023/05/book-review-586x900.png",
+      "title": "A Novel by Amar Neupane"
+    },
+    {
+      "name": "Karnali Blues",
+      "price": 600,
+      "category": "Fiction",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Karnali_Blues_by_Buddhisagar.jpg/220px-Karnali_Blues_by_Buddhisagar.jpg",
+      "title": "A Novel by Buddhi Sagar"
+    },
+    {
+      "name": "Summer Love",
+      "price": 500,
+      "category": "Romance",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1366431655i/17371265.jpg",
+      "title": "A Novel by Subin Bhattarai"
+    },
+    {
+      "name": "Loo",
+      "price": 400,
+      "category": "Fiction",
+      "image": "https://upload.wikimedia.org/wikipedia/en/4/48/Loo_Nayan_Raj_Pandey.jpg",
+      "title": "A Novel by Nayan Raj Pandey"
+    },
+    {
+      "name": "Phoolko Aankhama",
+      "price": 350,
+      "category": "Poetry",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1544172737i/13722734.jpg",
+      "title": "Poetry by Dharanidhar Koirala"
+    },
+    {
+      "name": "Jeevan Kaada Ki Phool",
+      "price": 450,
+      "category": "Biography",
+      "image": "https://media.thuprai.com/front_covers/jeevan_front.jpg",
+      "title": "An Autobiography by Jhamak Ghimire"
+    },
+    {
+      "name": "Pagal Basti",
+      "price": 400,
+      "category": "Fiction",
+      "image": "https://static-01.daraz.com.np/p/94dc9272dd2fd5eccd8096aa938a53f0.jpg",
+      "title": "A Novel by Saru Bhakta"
+    },
+    {
+      "name": "Shirishko Phool",
+      "price": 300,
+      "category": "Fiction",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1537332295i/38489009.jpg",
+      "title": "A Novel by Parijat"
+    },
+    {
+      "name": "Bhramar",
+      "price": 350,
+      "category": "Fiction",
+      "image": "https://media.thuprai.com/front_covers/Bharamar_book_by_rup_narayan_singh.jpeg",
+      "title": "A Novel by Jagadish Ghimire"
+    },
+    {
+      "name": "Radha",
+      "price": 550,
+      "category": "Fiction",
+      "image": "https://upload.wikimedia.org/wikipedia/en/2/26/Radha_%28Novel%29.jpg",
+      "title": "A Novel by Krishna Dharabasi"
+    },
+    {
+      "name": "Ghamka Pailaharu",
+      "price": 500,
+      "category": "Fiction",
+      "image": "https://upload.wikimedia.org/wikipedia/en/f/f6/Ghamka_Pailaharu.jpg",
+      "title": "A Novel by Dhruba Chandra Gautam"
+    },
+   
+    {
+      "name": "Jhopa",
+      "price": 350,
+      "category": "Fiction",
+      "image": "https://media.thuprai.com/__sized__/products/Beepeeko-Bidroha-front-thumbnail-280x405-70.jpg",
+      "title": "A Novel by Sanjeev Uprety"
+    },
+    {
+      "name": "Aashawari",
+      "price": 400,
+      "category": "Fiction",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Ashawari_poster.jpg/220px-Ashawari_poster.jpg",
+      "title": "A Novel by Amod Bhattarai"
+    },
+    {
+      "name": "Tallo Gharko Luki",
+      "price": 300,
+      "category": "Fiction",
+      "image": "https://media.thuprai.com/front_covers/Tallo-Bato-f.jpg",
+      "title": "A Novel by BP Koirala"
+    },
+    {
+      "name": "Madhabi",
+      "price": 350,
+      "category": "Fiction",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1519034226i/38617771.jpg",
+      "title": "A Novel by Madan Mani Dixit"
+    }
+  ]
+  
