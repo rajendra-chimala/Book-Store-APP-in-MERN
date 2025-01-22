@@ -34,6 +34,7 @@ DBConnection();
 //DEfining routs 
 
 app.use("/book/api",bookRouter)
+app.use(express.json());
 
 app.listen(port,()=>{
     console.log("Server is running at : http://localhost:"+port);
