@@ -1,4 +1,6 @@
 const Book = require("../model/book.model");
+// This is my book controller 
+
 
 
 
@@ -123,7 +125,12 @@ const addBook = async(req,res)=>{
 //       res.status(500).json({ message: "Error in adding book!" });
 //     }
 //   };
-  
+
+
+const newFun = await (req,res){
+res.status(200).json({message:"The function is calling "});
+
+}
 
 
 module.exports = {getBook,getBookById,deleteBook,updateBook,addBook};
